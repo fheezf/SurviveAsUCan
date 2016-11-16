@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<languages>
+	<English>
+		<string name="new_game">New Game</string>
+		<string name="options">Options</string>
+		<string name="shop">Shop</string>
+		<string name="quit">Quit</string>
+		<string name="options_back">Back</string>
+    <string name="Options">Options</string>
+		<string name="HowToPlay">How To Play</string>
+		<string name="PlayerSkins">Player Skins</string>
+		<string name="HowToPlayText1">This game consists in taking the objectives while runs away from the enemies. Take as much points as you can to beat a record!</string>
+		<string name="HowToPlayText2">Periodically, a "power up" will spawn and will bring you one of the next benefits temporally:
+
+- Boost your character movement speed.
+
+- Slow your enemies movement speed.
+
+- Vanish yourself during a brief amount of time and make your enemies to stop chasing you. *.
+
+- Provides an imanted area around the character that permit you to take the objetives from afar. 
+
+- Gives you one extra hearth.
+
+* When you get out from vanish state, every "power up" effect will stop working. Take care over when to take one "power up"! </string>
+		<string name="HowToPlayText3">There are four tipes of enemies:
+
+Normal enemies will chase you when they see you and stop doing it after a few seconds.</string>
+		<string name="HowToPlayText4">Enemy guardians will patrol around the objectives, they will chase you if you are near one!</string>
+		<string name="HowToPlayText5">Enemy mages won't chase you in any moment, they will walk around the board placing some wallfires to stop you.</string>
+		<string name="HowToPlayText6">Enemy ranged will look for good positions. They can shot if you walk near them. After a moment they will look for a new position.</string>
+		<string name="HowToPlayText7">When an enemy hits you, you will lose one of your hearts and automatically trigger vanish "power up".
+
+In addition, after being hit enemies will think you are dead and they will start leaving the board, but be careful, if an enemy sees you again, he will stay on the board.</string>
+		<string name="HowToPlayText8">When the game ends, all your game punctuation will turn into game currency than can be used to purchase skins.</string>
+		<string name="ShopBack">Back</string>
+		<string name="10 game coins">10 game coins</string>
+		<string name="50 game coins">50 game coins</string>
+		<string name="400 game coins">400 game coins</string>
+		<string name="1000 game coins">1000 game coins</string>
+		<string name="Blue Skin">Blue Skin</string>
+		<string name="Red Skin">Red Skin</string>
+		<string name="Green Skin">Green Skin</string>
+		<string name="Spec Skin">Spec Skin</string>
+		<string name="No Ads">No Ads</string>
+		<string name="Choice Confirm Title">Confirm </string>
+		<string name="Choice Confirm">Are you sure you wanna buy </string>
+		<string name="Choice Correct Title">Correct</string>
+		<string name="Choice Correct">Your purchase has been realized succesfully.</string>
+		<string name="Choice Incorrect Title">Error</string>
+		<string name="Choice Incorrect1">Not enough currency.</string>
+		<string name="Choice Incorrect2">We are sorry, there was an unexpected error.</string>
+		<string name="Punctuation">Punctuation: </string>
+		<string name="Your Punctuation">Your punctuation: </string>
+		<string name="Record">Record: </string>
+		<string name="Main Menu">Main menu</string>
+		<string name="OptionsLanguageLabel">Language: </string>
+		<string name="DropdownLanguageOption0">Spanish</string>
+		<string name="DropdownLanguageOption1">English</string>
+		<string name="HeaderMainMenu">Main Menu</string>
+		
+	</English>
+	<Spanish>
+		<string name="new_game">Nueva Partida</string>
+		<string name="options">Opciones</string>
+		<string name="shop">Tienda</string>
+		<string name="quit">Salir</string>
+		<string name="options_back">Atrás</string>
+    <string name="Options">Opciones</string>
+		<string name="HowToPlay">Cómo Jugar</string>
+		<string name="PlayerSkins">Apariencia del Jugador</string>
+		<string name="HowToPlayText1">Este juego consiste en conseguir los objetivos mientras esquivas a los enemigos.¡Consigue los máximos puntos posibles para batir un récord!</string>
+		<string name="HowToPlayText2">Periódicamente, aparecerá un "power up" que te proporcionará uno de los siguientes beneficios de manera aleatoria y temporal:
+
+- Aumenta la velocidad de movimiento de tu personaje.
+
+- Disminuye la velocidad de movimiento de los enemigos.
+
+- Te cubre con una capa de humo durante un breve periodo de tiempo que hace que los enemigos dejen de perseguirte *.
+
+- Proporciona un área imantada alrededor del personaje que permite recoger los objetivos desde más lejos. 
+
+- Proporciona al jugador una vida más.
+
+* Al salir del estado invisible, cualquier efecto de "power up" recogido recientemente dejará de tener efecto. ¡Cuidado sobre cuando pillar una mejora!.</string>
+		<string name="HowToPlayText3">Existen cuatro tipos de enemigos:
+
+Los enemigos normales te perseguirán al entrar en su rango de visión y dejarán de hacerlo tras pasar unos segundos.</string>
+		<string name="HowToPlayText4">Los enemigos guardianes rondarán las proximidades de los objetivos, si te ven paseando por las zonas cercanas a su protección, ¡te perseguirán! </string>
+		<string name="HowToPlayText5">Los enemigos magos no te perseguirán en ningún momento, sino que se pasearán por el mapeado colocando muros de fuego para obstaculizarte el paso.</string>
+		<string name="HowToPlayText6">Los enemigos lanceros buscarán posiciones en las que establecerse para dispararte si te paseas cerca de ellos, después de un rato quietos buscarán una nueva zona que vigilar.</string>
+		<string name="HowToPlayText7">Si en cualquier momento un enemigo te pilla, perderás una de tus vidas activando automáticamente el "power up" de invisibilidad.
+
+Además, después de ser golpeado los enemigos creerán que has muerto y comenzarán a irse del terreno, ¡pero cuidado, si alguno te ve de nuevo decidirá no marcharse!</string>
+		<string name="HowToPlayText8">Al terminar la partida, la puntuación obtenida se convertirá en monedas que podrán usarse para desbloquear aspectos.</string>
+		<string name="ShopBack">Atrás</string>
+		<string name="10 game coins">10 monedas</string>
+		<string name="50 game coins">50 monedas</string>
+		<string name="400 game coins">400 monedas</string>
+		<string name="1000 game coins">1000 monedas</string>
+		<string name="Blue Skin">Apariencia Azul</string>
+		<string name="Red Skin">Apariencia Roja</string>
+		<string name="Green Skin">Apariencia Verde</string>
+		<string name="Spec Skin">Apariencia Especial</string>
+		<string name="No Ads">Sin Publicidad</string>
+		<string name="Choice Confirm Title">Confirmar </string>
+		<string name="Choice Confirm">¿Estas seguro que desea comprar </string>
+		<string name="Choice Correct Title">Correcto</string>
+		<string name="Choice Correct">Su compra se ha realizado con éxito. </string>
+		<string name="Choice Incorrect Title">Error</string>
+		<string name="Choice Incorrect1">Fondos insuficientes.</string>
+		<string name="Choice Incorrect2">Lo sentimos, ha ocurrido un error inesperado.</string>
+		<string name="Punctuation">Puntuación: </string>
+		<string name="Your Punctuation">Tu Puntuación: </string>
+		<string name="Record">Récord: </string>
+		<string name="Main Menu">Menú principal</string>
+		<string name="OptionsLanguageLabel">Idioma: </string>
+		<string name="DropdownLanguageOption0">Español</string>
+		<string name="DropdownLanguageOption1">Inglés</string>
+		<string name="HeaderMainMenu">Menú Principal</string>
+	</Spanish>
+</languages>
